@@ -9,4 +9,3 @@ fn generate_thumbnail width:renderWidth height:renderHeight=
         render outputwidth:width outputheight:height outputFile:thumbnail_output_path vfb:false
 )
 
-generate_thumbnail()
